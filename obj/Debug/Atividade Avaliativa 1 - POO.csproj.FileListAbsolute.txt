@@ -1,0 +1,11 @@
+C:\Users\Iago Ramos\source\repos\Atividade Avaliativa 1 - POO\bin\Debug\Atividade Avaliativa 1 - POO.exe.config
+C:\Users\Iago Ramos\source\repos\Atividade Avaliativa 1 - POO\bin\Debug\Atividade Avaliativa 1 - POO.exe
+C:\Users\Iago Ramos\source\repos\Atividade Avaliativa 1 - POO\bin\Debug\Atividade Avaliativa 1 - POO.pdb
+C:\Users\Iago Ramos\source\repos\Atividade Avaliativa 1 - POO\obj\Debug\Atividade Avaliativa 1 - POO.csprojAssemblyReference.cache
+C:\Users\Iago Ramos\source\repos\Atividade Avaliativa 1 - POO\obj\Debug\Atividade_Avaliativa_1___POO.Form1.resources
+C:\Users\Iago Ramos\source\repos\Atividade Avaliativa 1 - POO\obj\Debug\Atividade_Avaliativa_1___POO.Properties.Resources.resources
+C:\Users\Iago Ramos\source\repos\Atividade Avaliativa 1 - POO\obj\Debug\Atividade Avaliativa 1 - POO.csproj.GenerateResource.cache
+C:\Users\Iago Ramos\source\repos\Atividade Avaliativa 1 - POO\obj\Debug\Atividade Avaliativa 1 - POO.csproj.CoreCompileInputs.cache
+C:\Users\Iago Ramos\source\repos\Atividade Avaliativa 1 - POO\obj\Debug\Atividade Avaliativa 1 - POO.exe
+C:\Users\Iago Ramos\source\repos\Atividade Avaliativa 1 - POO\obj\Debug\Atividade Avaliativa 1 - POO.pdb
+C:\Users\Iago Ramos\source\repos\Atividade Avaliativa 1 - POO\obj\Debug\Atividade_Avaliativa_1___POO.Form2.resources
